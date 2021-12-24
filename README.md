@@ -5,3 +5,7 @@
         - Defintion 
         - Merits
         - Demerits
+    - Measure of Dispersion: Variance and Standard Deviation
+        - Definition
+        - Significance
+        - Pitfalls
