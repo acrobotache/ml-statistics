@@ -16,6 +16,9 @@
     - Quartiles and Inter Quartile Range
         - Quartiles
         - IQR
+        - Hackerrank problem and solution for practice
+        
+    - Ourlier Detection
         - Significance of Outliers
         - Outlier Detection using IQR
-        - Hackerrank problem and solution for practice
+         
